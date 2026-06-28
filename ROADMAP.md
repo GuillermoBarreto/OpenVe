@@ -1,18 +1,43 @@
-v0.1
-- Backend
-- Frontend
-- Reportes
-- API
+Sprint 0
 
-v0.2
-- Mapa
-- Fotografías
-- Categorías
+Repositorio
 
-v0.3
-- Verificación
-- Moderación
-- Comentarios
+↓
+
+Sprint 1
+
+Backend
+
+↓
+
+Sprint 2
+
+Frontend
+
+↓
+
+Sprint 3
+
+CRUD Reportes
+
+↓
+
+Sprint 4
+
+Mapa
+
+↓
+
+Sprint 5
+
+Usuarios
+
+↓
+
+Sprint 6
+
+Verificación
+
+↓
 
 v1.0
-- Plataforma estable
